@@ -1,2 +1,1 @@
-# Fake-News-Detection
-Detection of fake news from dataset of news articles
+# Detection of Fake News from Dataset of News Articles

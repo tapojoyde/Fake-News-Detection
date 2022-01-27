@@ -1,3 +1,4 @@
+# ignore checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
@@ -8,5 +9,7 @@ ipython_config.py
 # ignore ALL .log files
 *.log
 
-# ignore ALL files in ANY directory named temp
+# ignore ALL files in following directories
 temp/
+venv/
+news-env/
